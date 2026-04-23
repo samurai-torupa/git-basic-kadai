@@ -1,0 +1,19 @@
+Hello, world!
+こんにちは、世界！
+PS C:\Users\093111_226306\Desktop\lesson\git_tutorial\kadai_005> Get-History
+
+  Id CommandLine                                                                                                                                                                 
+  -- -----------                                                                                                                                                                 
+   1 try { . "c:\Users\093111_226306\AppData\Local\Programs\Microsoft VS Code\560a9dba96\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" ...
+   2 cd C:\Users\093111_226306\Desktop\lesson\git_tutorial\kadai_005                                                                                                             
+   3 git init                                                                                                                                                                    
+   4 git status                                                                                                                                                                  
+   5 git add .                                                                                                                                                                   
+   6 git commit -m "日本語訳"                                                                                                                                                    
+   7 git status                                                                                                                                                                  
+   8 git remote add origin <https://github.com/samurai-torupa/git-basic-kadai.git>                                                                                               
+   9 git remote add origin https://github.com/samurai-torupa/git-basic-kadai.git                                                                                                 
+  10 git push -u origin main                                                                                                                                                     
+
+
+PS C:\Users\093111_226306\Desktop\lesson\git_tutorial\kadai_005> 
