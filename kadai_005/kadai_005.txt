@@ -1,0 +1,8 @@
+mkdir kadai_005_fix
+cd kadai_005_fix
+git init
+git add hello_world.txt
+git commit -m "Hello, worldを追加"
+git add hello_world.txt
+git commit -m "日本語訳を追記"
+git log --oneline
