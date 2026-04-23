@@ -1,8 +1,0 @@
-Hello, world!
-こんにちは、世界！
-git init
-git add kadai_005.txt
-git commit -m "Hello, worldを追加"
-git add kadai_005.txt
-git commit -m "日本語訳を追加"
-git log --oneline
